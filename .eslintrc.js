@@ -25,7 +25,7 @@ module.exports = {
         printWidth: 120,
         singleQuote: true,
         trailingComma: 'es5',
-        parser: 'flow',
+        parser: 'typescript',
         semi: false,
         bracketSpacing: true,
         endOfLine: 'auto',
